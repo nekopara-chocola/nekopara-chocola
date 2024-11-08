@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a tester
+- 👀 I’m interested in testing technology solutions
+- 💞️ I’m looking to collaborate on beta testing programs
